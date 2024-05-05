@@ -1,0 +1,3 @@
+UNIVERSIDADE DO OESTE DE SANTA CATARINA
+ÁREA DE CIÊNCIAS EXATAS E TECNOLÓGICAS
+Questões - Algoritmos e Lógica de Programação.
